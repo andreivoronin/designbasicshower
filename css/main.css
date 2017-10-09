@@ -129,6 +129,14 @@
   transition-duration: 1s;
 }
 
+.view-all {
+  float: right;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  font-weight: bold;
+  padding: 10px;
+}
 
 /* Загрузка поста в Facebook */
 
